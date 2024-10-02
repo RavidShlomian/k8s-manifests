@@ -6,7 +6,7 @@ metadata:
 data:
  index.html: |
    <html>
-   <head><title>nginx appsr</title></head>
+   <head><title>nginx appf</title></head>
    <body>
    <h1>Hello Commit Ravid </h1>
    </body>
